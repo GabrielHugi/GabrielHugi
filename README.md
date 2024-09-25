@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Gabriel Loureiro Amorim Hugi</h1>
 <h3 align="center">I enjoy coding</h3>
 <p>
-- My favorite project [Web Tic Tac Toe](https://github.com/GabrielHugi/Web-Tic-Tac-Toe)
+- My favorite project: <strong>Web Tic Tac Toe</strong>
 </p>
 <p>
 - Message me at **gabrielhugi2@gmail.com**
