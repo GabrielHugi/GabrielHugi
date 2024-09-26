@@ -5,7 +5,7 @@
 - My favorite project: <strong>Web Tic Tac Toe</strong>
 </p>
 <p>
-- Message me at **gabrielhugi2@gmail.com**
+- Message me at <strong>gabrielhugi2@gmail.com</strong>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
