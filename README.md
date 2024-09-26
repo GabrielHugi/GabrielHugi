@@ -1,5 +1,6 @@
 <h1 align="center">Hello, my name is Gabriel Loureiro Amorim Hugi</h1>
 <h3 align="center">I enjoy coding</h3>
+<p>High school: ETEC Bento Quirino 2024-2026</p>
 <p>
 - My favorite project: <strong>Web Tic Tac Toe</strong>
 </p>
