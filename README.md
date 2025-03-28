@@ -1,5 +1,11 @@
 <h1 align="center">Hello, my name is Gabriel Loureiro Amorim Hugi</h1>
 <h3 align="center">I enjoy coding</h3>
+Quick overview:
+  
+
+[![Victor GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GabrielHugi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+##
 <p>High school: ETEC Bento Quirino 2024-2026</p>
 <p>
 - My favorite project: <strong>Web Tic Tac Toe</strong>
